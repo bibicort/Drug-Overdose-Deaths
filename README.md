@@ -1,4 +1,4 @@
-**Drug overdose deaths in Connecticut USA 2012-2018**
+## **Drug overdose deaths in Connecticut USA 2012-2018**
 
 I am interested in this topic because it strikes me how drug related deaths are a huge public health problem right now in USA  and also in Canada. In this project I expect to find some trends in terms of age, gender, race and substance related to drug overdose deaths. In addition, I want to see if the problem is decreasing, increasing or is having a constant behavior during the studied period of time 2012 to 2018.   
 
